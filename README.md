@@ -1,6 +1,4 @@
-# Before Getting Started.
 
-## Check out Here Live [URL](https://codersunite.herokuapp.com/)
 
 ### Tech Stack Used :
 
