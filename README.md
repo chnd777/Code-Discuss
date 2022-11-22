@@ -3,7 +3,7 @@
 ### Tech Stack Used :
 
 - Front-End
-  - React (with Redux and React-Routers-dom)
+  - React 
   - ReactStrap
   - Bootstrap CSS
 - Back-End
